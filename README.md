@@ -2,7 +2,7 @@
 
 ## Happy coding!
 
-##### Apa yang akan kamu pelajari dari app ini?
+##### tentang apa app ini?
 
 - Cara melakukan remote data fetching di React dengan axios
 - Cara menyesuaikan component yang di-render sesuai dengan proses fetching
@@ -15,4 +15,4 @@
 - CSS Module dan dynamic className dengan classnames
 - Melakukan sentuhan animasi dengan React dan CSS untuk UX
 
-&copy; wegodev | version 1.1.0
+Thanks!
